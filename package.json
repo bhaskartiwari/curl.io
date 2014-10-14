@@ -1,0 +1,22 @@
+{
+  "name": "curl.io",
+  "version": "0.0.1",
+  "description": "Node.JS Implementation of The Popular cURL Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhaskartiwari/curl.io"
+  },
+  "keywords": [
+    "nodejs",
+    "curl"
+  ],
+  "author": "Bhaskar Tiwari <bhaskartiwaridev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhaskartiwari/curl.io/issues"
+  }
+}
